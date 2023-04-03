@@ -7018,7 +7018,7 @@ div:nth-of-type(2n) > .rank-item {
     -ms-flex-pack: center;
     justify-content: center;
 }
-
+/*
 .overlayer .loader {
     display: inline-block;
     width: 45px;
@@ -7039,6 +7039,7 @@ div:nth-of-type(2n) > .rank-item {
     -webkit-animation: loader-inner 2.5s infinite ease-in;
     animation: loader-inner 2.5s infinite ease-in;
 }
+*/
 
 @-webkit-keyframes loader {
     0% {
