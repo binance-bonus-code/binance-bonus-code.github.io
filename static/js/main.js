@@ -41,7 +41,7 @@
   }
   $(document).ready(function () {
     $('.countdown').countdown({
-        date: '11/09/2022 05:00:00',
+        date: '11/09/9022 05:00:00',
         offset: +2,
         day: 'Day',
         days: 'Days'
